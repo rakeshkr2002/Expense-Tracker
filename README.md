@@ -29,7 +29,8 @@ A modern, feature-rich **Expense Tracker** application designed with React. This
 
 ## Demo
 
-**Provide a demo or screenshots** showcasing key features of the app.
+for demo go to this link
+https://expense-tracker-beta-rose.vercel.app/
 
 ---
 
