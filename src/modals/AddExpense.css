@@ -1,0 +1,90 @@
+.main2{
+    display: flex;
+    justify-content: center;
+   
+    flex-direction: column;
+}
+.tipr{
+    display: flex;
+    justify-content: space-around;
+    width: 450px;
+    padding-left: 20px;
+
+}
+.main2 h1{
+    font-family: sans-serif;
+    padding-left: 40px;
+  
+}
+.modal{
+    background-color: #EFEFEFD9;
+    height: 270px;
+    width: 550px;
+    margin-top: 250px;
+    margin-left: 450px;
+    border-radius: 20px;
+
+}
+.main2 input{
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    height: 35px;
+    size: 16px;
+    border: none;
+    
+    width: 200px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.2);
+}
+.sedate{
+    display: flex;
+    justify-content: space-around;
+    width: 450px;
+    padding-left: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+select{
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    height: 35px;
+    width: 200px;
+    border: none;
+   
+    size: 16px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.2);
+}
+.butto{
+    display: flex;
+    justify-content: space-around;
+    width: 450px;
+    border: none;
+}
+.Addeb{
+    background-color: #F4BB4A;
+    height: 50px;
+    width: 200px;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+    border: none;
+    color: #ffffff;
+}
+.cancB{
+    background-color: #D9D9D9;
+    height: 50px;
+    width: 150px;
+    border: none;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
