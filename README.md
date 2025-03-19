@@ -32,31 +32,7 @@ A modern, feature-rich **Expense Tracker** application designed with React. This
 for demo go to this link
 https://expense-tracker-beta-rose.vercel.app/
 
----
 
-## Installation
-
-Follow these steps to set up and run the app locally:
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/your-username/expense-tracker.git
-   cd expense-tracker
-   ```
-
-2. **Install dependencies**:
-   ```bash
-   npm install
-   ```
-
-3. **Run the app**:
-   ```bash
-   npm start
-   ```
-
-4. The app will open at `http://localhost:3000`.
-
----
 
 ## Code Highlights
 
@@ -119,11 +95,4 @@ src
 
 4. **Visualize Spending**:
    - Analyze expenses through a pie chart and bar chart for category-wise insights.
-
----
-
-
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to modify and use it as needed.
 
